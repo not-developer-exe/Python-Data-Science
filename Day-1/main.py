@@ -79,3 +79,26 @@
 # And one condition should get true, the output becomes true
 
 # print( 12 < 10 or 23 == 45 or 10 > 5)
+
+# NOT - reverses the boolean ans
+
+
+
+# Conditional Statements
+
+# if 
+
+#a = 13
+
+#if a > 10:
+    #print('Kch kch huaaaaa')
+    
+
+# if - else
+
+#a  = 10;
+#if a < 9:
+#    print('abcd')
+#else:
+#    print('bcded')
+
