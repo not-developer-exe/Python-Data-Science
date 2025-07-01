@@ -102,3 +102,47 @@
 #else:
 #    print('bcded')
 
+# if - elif - else
+
+# money = int(input('Provide the amount given by mummy: '))
+
+# if money <= 10 :
+#     print('Choco bar')
+# elif money == 20:
+#     print('Mango Dolly')
+# else:
+#     print('Mehngi wali ice-cream')
+
+# Questions....
+
+# 1: accept 2 numbers and print the bigger
+
+# a = int(input('enter first num: '))
+# b = int(input('Enter second num: '))
+
+# if a > b:
+#     print("a is bigger")
+# elif b > a:
+#     print("b is bigger")
+# else:
+#     print("both are equal")
+
+# 2 : accept the gender and greet
+
+# gen = input('please specify ur gender (M or F): ')
+# if gen == 'M' or gen == 'm':
+#     print("Good Morning Sir")
+# elif gen == "F" or gen == 'f':
+#     print("Good Morning Ma'am")
+# else:
+#     print('Error happened, please choose M or F')
+
+
+# 3 : even or odd
+
+# number = int(input('Enter number: '))
+# if number%2 == 0:
+#     print('EVEN')
+# else:
+#     print('ODD')
+
