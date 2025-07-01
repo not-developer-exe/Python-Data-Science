@@ -184,3 +184,24 @@
 # else:
 #     print('Mummy, itni grmiiiiiiiii')
 
+# Loop - for and while
+
+# # for loop
+# for i in range(1, 11, 1): #range(start, stop, steps) Always remember, that stop has to be n+1 for better output like here i needed till 10 so the stop counter is at 11. 
+#     print(i)
+
+
+# 20 to 50
+
+# for i in range(20, 51):
+#     print(i)
+
+# from 16 to 1
+
+# for i in range(16, 0, -1):
+#     print(i)
+
+# from -3 to -15
+# for i in range(-3, -16, -1):
+#     print(i)
+
