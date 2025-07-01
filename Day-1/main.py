@@ -69,3 +69,13 @@
 # >= : Greater than Equals to
 
 #Logical Operators
+
+# AND 
+# Any one condition gets false, the output becomes false
+
+# print( 10 < 20 and 12 > 10)
+
+# OR 
+# And one condition should get true, the output becomes true
+
+# print( 12 < 10 or 23 == 45 or 10 > 5)
