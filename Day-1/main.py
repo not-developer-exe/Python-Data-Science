@@ -146,3 +146,41 @@
 # else:
 #     print('ODD')
 
+# 4: Valid Voter
+
+# name = input('Enter your name: ')
+# age = int(input('Enter your age: '))
+
+# if age < 18:
+#     print(f"{name} is not a valid voter, you'll be able to vote in {18 - age} years")
+# else:
+#     print(f"{name} is a valid voter")
+    
+# 5 : Leap year
+
+# year = int(input('Enter the year: '))
+
+# if year%100 == 0 and year % 400 == 0:
+#     print('Leap year')
+# elif year % 100 != 0 and year % 4 == 0:
+#     print('Leap year')
+# else:
+#     print('nahi h yrrrrr')
+
+# 6 : elif ladder
+
+# temp = int(input('Enter temp: '))
+
+# if temp < 0:
+#     print('bhai, jamm gyaa')
+# elif temp >= 0 and temp <10:
+#     print('Acchi thand hai')
+# elif temp >=10 and temp < 20:
+#     print('Bardasht kar skte hai')
+# elif temp >=20 and temp < 30:
+#     print('Maza aa gya')
+# elif temp >=30 and temp < 40:
+#     print('thoda paseena aane lga hai')
+# else:
+#     print('Mummy, itni grmiiiiiiiii')
+
