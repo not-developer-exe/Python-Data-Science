@@ -205,3 +205,20 @@
 # for i in range(-3, -16, -1):
 #     print(i)
 
+# print 7 ki table
+
+# for i in range(7, 71, 7):
+#     print(i)
+
+# for loop on strings
+
+# a = "ADITYA"
+
+# for i in range(0, 6, 1):
+#     print(a[i])
+
+# Alternate or widely used
+# for i in range(len(a)):
+#     print(a[i])
+
+# 
